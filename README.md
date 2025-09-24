@@ -212,75 +212,23 @@ plt.show()
 ```
 
 ## Output:
-- ### *i)* Read and Display an Image.  
-   1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/3a7b06b8-5329-49fd-aa01-10b34e8f8f5c" />
 
-![image](https://github.com/user-attachments/assets/8fbee7a1-6682-4ebc-bf5d-0e99168fe414)
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/65cdb7db-3980-4c2e-ab7d-0d9f939cc24e" />
 
-  2.Save image as PNG and display:
-
-![image](https://github.com/user-attachments/assets/f3c7b81e-a1d3-47d8-8bce-41506c62019f)
-
-  3.Cropped image:
-
-![image](https://github.com/user-attachments/assets/6844ce30-4221-4a0f-baa4-ffb871f70048)
-
-  4.Resize and flip Horizontally:
-  
-![image](https://github.com/user-attachments/assets/52f120d2-1e32-4f45-8ca6-30b834ada0d1)
-
-  5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
-
-![image](https://github.com/user-attachments/assets/f9f8af66-0811-4ef7-93dd-26fd825533b7)
-
-- ### *ii)* Adjust Image Brightness.
-
-1.Create brighter and darker images and display:
-
-![image](https://github.com/user-attachments/assets/2fbdf2e6-53b6-4789-b1f7-1c04a2a58af0)
-
-![image](https://github.com/user-attachments/assets/84944e6d-1f8a-4db8-8f53-d3d2bbbd6e1c)
-
-![image](https://github.com/user-attachments/assets/217de5b6-93f7-4495-95a6-549a1a182976)
-
-
-
-- ### *iii)* Modify Image Contrast.  
-1. Modify contrast using scaling factors 1.1 and 1.2:
-
-![image](https://github.com/user-attachments/assets/4139717b-33aa-43b6-9bc2-5783780a1eb5)
-
-![image](https://github.com/user-attachments/assets/c96ec7ac-58aa-4729-9431-fdf31838a5f7)
-
-![image](https://github.com/user-attachments/assets/e19b467e-0ab4-44af-a235-921af100fe3d)
-
-
-- ### *iv)* Generate Third Image Using Bitwise Operations.
-
-1.Split 'Boy.jpg' into B, G, R components and display:
-
-![image](https://github.com/user-attachments/assets/30364c56-0f70-4d05-b1fe-e504bbc830f4)
-
-![image](https://github.com/user-attachments/assets/fc200792-bf96-4e55-bb12-d9c07df40092)
-
-![image](https://github.com/user-attachments/assets/86c9a27b-a0ac-4cdd-924b-bd3173a3cee9)
-
-2.Merge the R, G, B channels and display:
-
-![image](https://github.com/user-attachments/assets/09d5507f-ae48-4ab3-bc7d-9b7466ce7e81)
-
-3.Split the image into H, S, V components and display:
-
-![image](https://github.com/user-attachments/assets/5cfbee49-3082-44da-ab63-fbe813392013)
-
-![image](https://github.com/user-attachments/assets/74412dc1-b2a1-4261-af9c-0bec8f2165d6)
-
-![image](https://github.com/user-attachments/assets/c0612cd0-1dcc-4c4f-b9f7-501b18468184)
-
-
-4.Merge the H, S, V channels and display:
-
-![image](https://github.com/user-attachments/assets/3c8fa07d-31ff-4b14-87c1-061ffef0447e)
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/4fc3732b-16fe-4cb3-b765-e9a3ab11936f" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/fe2abed7-5597-4a84-8711-98e46d2e7281" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/9fad5271-2db9-45dd-855d-580369f4193b" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/81b49860-2ff5-4bcb-b05f-8f6f007e0e86" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/4814f311-d20c-490c-97de-06857a6e912a" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/2827e2cb-c956-400f-aff3-379f10e6725c" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/a1f4cf39-4e25-4ac2-b86a-930714dcb0d1" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/52d77572-c748-439a-8f14-5bf3f4faf3d1" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/dcb2f52e-450f-4c8b-a689-603a5a532d16" />
+<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/dec087e8-dd84-49e4-8491-328b28006e6d" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/42761f31-1533-4416-bdfc-2056229d0639" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/f938f2e1-7e8f-46f5-bd65-8859bd9c286a" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/453d94f5-065b-40c1-b285-d3a44eb613ab" />
 
 
 ## Result:
